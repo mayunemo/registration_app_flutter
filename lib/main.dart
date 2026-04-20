@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:registration_app/login.dart';
+import 'package:registration_app/signup.dart';
 import 'package:registration_app/welcom.dart';
 
 void main() {
@@ -11,7 +13,6 @@ class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Welcomepage()
-      );
-  }}
+    return MaterialApp(debugShowMaterialGrid: false, home: Welcomepage());
+  }
+}
