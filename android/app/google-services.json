@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412370258086",
+    "project_id": "registrationapp-c2dcf",
+    "storage_bucket": "registrationapp-c2dcf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412370258086:android:fff95eb5164d0d6b1ecc67",
+        "android_client_info": {
+          "package_name": "com.example.registration_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNitZOLkCECoh9_q4Emxelm5sVT2_5MZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
